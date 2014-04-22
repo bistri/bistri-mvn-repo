@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bistri.api</groupId>
+  <artifactId>bistri-api-demo</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140422132032</lastUpdated>
+  </versioning>
+</metadata>
