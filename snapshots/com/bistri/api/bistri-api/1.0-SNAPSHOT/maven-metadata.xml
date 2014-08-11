@@ -5,26 +5,26 @@
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140724.211843</timestamp>
-      <buildNumber>6</buildNumber>
+      <timestamp>20140811.092942</timestamp>
+      <buildNumber>7</buildNumber>
     </snapshot>
-    <lastUpdated>20140724211843</lastUpdated>
+    <lastUpdated>20140811092942</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>1.0-20140724.211843-6</value>
-        <updated>20140724211843</updated>
+        <value>1.0-20140811.092942-7</value>
+        <updated>20140811092942</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140724.211843-6</value>
-        <updated>20140724211843</updated>
+        <value>1.0-20140811.092942-7</value>
+        <updated>20140811092942</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>libs</classifier>
         <extension>tar.gz</extension>
-        <value>1.0-20140724.211843-6</value>
-        <updated>20140724211843</updated>
+        <value>1.0-20140811.092942-7</value>
+        <updated>20140811092942</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

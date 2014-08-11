@@ -5,25 +5,25 @@
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140724.211925</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20140811.093031</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
-    <lastUpdated>20140724211925</lastUpdated>
+    <lastUpdated>20140811093031</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140724.211925-4</value>
-        <updated>20140724211925</updated>
+        <value>1.0-20140811.093031-5</value>
+        <updated>20140811093031</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>tar.gz</extension>
-        <value>1.0-20140724.211925-4</value>
-        <updated>20140724211925</updated>
+        <value>1.0-20140811.093031-5</value>
+        <updated>20140811093031</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>zip</extension>
-        <value>1.0-20140724.211925-4</value>
-        <updated>20140724211925</updated>
+        <value>1.0-20140811.093031-5</value>
+        <updated>20140811093031</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
