@@ -5,31 +5,31 @@
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140827.082005</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20140904.162850</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
-    <lastUpdated>20140827082005</lastUpdated>
+    <lastUpdated>20140904162850</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>apk</extension>
-        <value>1.0-20140827.082005-4</value>
-        <updated>20140827082005</updated>
+        <value>1.0-20140904.162850-5</value>
+        <updated>20140904162850</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140827.082005-4</value>
-        <updated>20140827082005</updated>
+        <value>1.0-20140904.162850-5</value>
+        <updated>20140904162850</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20140827.082005-4</value>
-        <updated>20140827082005</updated>
+        <value>1.0-20140904.162850-5</value>
+        <updated>20140904162850</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>src</classifier>
         <extension>tar.gz</extension>
-        <value>1.0-20140827.082005-4</value>
-        <updated>20140827082005</updated>
+        <value>1.0-20140904.162850-5</value>
+        <updated>20140904162850</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
