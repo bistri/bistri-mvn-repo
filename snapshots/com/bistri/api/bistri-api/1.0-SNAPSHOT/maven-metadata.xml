@@ -5,38 +5,38 @@
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140904.162825</timestamp>
-      <buildNumber>9</buildNumber>
+      <timestamp>20140905.070613</timestamp>
+      <buildNumber>10</buildNumber>
     </snapshot>
-    <lastUpdated>20140904162825</lastUpdated>
+    <lastUpdated>20140905070613</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>1.0-20140904.162825-9</value>
-        <updated>20140904162825</updated>
+        <value>1.0-20140905.070613-10</value>
+        <updated>20140905070613</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140904.162825-9</value>
-        <updated>20140904162825</updated>
+        <value>1.0-20140905.070613-10</value>
+        <updated>20140905070613</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>libs</classifier>
         <extension>tar.gz</extension>
-        <value>1.0-20140904.162825-9</value>
-        <updated>20140904162825</updated>
+        <value>1.0-20140905.070613-10</value>
+        <updated>20140905070613</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0-20140904.162825-9</value>
-        <updated>20140904162825</updated>
+        <value>1.0-20140905.070613-10</value>
+        <updated>20140905070613</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>docs</classifier>
         <extension>tar.gz</extension>
-        <value>1.0-20140904.162825-9</value>
-        <updated>20140904162825</updated>
+        <value>1.0-20140905.070613-10</value>
+        <updated>20140905070613</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
