@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.bistri.api</groupId>
+    <artifactId>bistri-api-parent</artifactId>
+    <version>1.2</version>
+    <packaging>pom</packaging>
+    <name>Bistri Android WebRTC</name>
+    <modules>
+        <module>api</module>
+        <module>demo</module>
+        <module>demo-glass-activity</module>
+        <module>api-archive</module>
+    </modules>
+    <properties>
+        <android.api.version>16</android.api.version>
+        <android.version>4.0.1.2</android.version>
+        <android-maven-plugin.version>3.8.2</android-maven-plugin.version>
+<!--
+        <maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
+        <maven-jarsigner-plugin.version>1.2</maven-jarsigner-plugin.version>
+        <native-maven-plugin.version>1.0-alpha-7</native-maven-plugin.version>
+        <build-helper-maven-plugin.version>1.7</build-helper-maven-plugin.version>
+        <proguard-maven-plugin.version>2.0.4</proguard-maven-plugin.version>
+        <proguard.version>4.4</proguard.version>
+        <java.version>1.6</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+-->
+    </properties>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.google.android</groupId>
+                <artifactId>android</artifactId>
+                <version>${android.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                <groupId>com.jayway.maven.plugins.android.generation2</groupId>
+                <artifactId>android-maven-plugin</artifactId>
+                <version>${android-maven-plugin.version}</version>
+                <configuration>
+                    <sdk>
+                        <platform>16</platform>
+                    </sdk>
+                    <apkDebug>true</apkDebug>
+                </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+    <distributionManagement>
+        <repository>
+            <id>repo</id>
+            <url>https://github.com/bistri/bistri-mvn-repo/raw/master/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshot-repo</id>
+            <url>https://github.com/bistri/bistri-mvn-repo/raw/master/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
+</project>
