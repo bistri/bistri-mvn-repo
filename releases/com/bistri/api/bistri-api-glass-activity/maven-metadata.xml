@@ -3,13 +3,14 @@
   <groupId>com.bistri.api</groupId>
   <artifactId>bistri-api-glass-activity</artifactId>
   <versioning>
-    <release>1.2</release>
+    <release>1.3</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.1.1</version>
       <version>1.2</version>
+      <version>1.3</version>
     </versions>
-    <lastUpdated>20150319142109</lastUpdated>
+    <lastUpdated>20150417234559</lastUpdated>
   </versioning>
 </metadata>
